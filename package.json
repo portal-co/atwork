@@ -3,5 +3,5 @@
   "workspaces": [],
   "devDependencies": {
     "parcel": "^2.15.4"
-  }
+  },"description": "A protocol for websites to work with work providers, which give information about users at work for websites to accept or decline"
 }
