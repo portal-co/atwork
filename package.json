@@ -1,7 +1,13 @@
 {
   "name": "@portal-solutions/atwork",
-  "workspaces": [],
+  "workspaces": [
+    "js"
+  ],
   "devDependencies": {
-    "parcel": "^2.15.4"
-  },"description": "A protocol for websites to work with work providers, which give information about users at work for websites to accept or decline"
+    "@parcel/packager-ts": "^2.15.4",
+    "@parcel/transformer-typescript-types": "^2.15.4",
+    "parcel": "^2.15.4",
+    "typescript": "^5.9.2"
+  },
+  "description": "A protocol for websites to work with work providers, which give information about users at work for websites to accept or decline"
 }
