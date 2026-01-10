@@ -1,13 +1,15 @@
 # @portal-solutions/atwork
 
 ## Description
-A protocol for websites to work with work providers, which give information about users at work for websites to accept or decline
+A protocol allowing websites to interact with work providers to exchange information about users at work (e.g., for acceptance/declining access).
 
 ## Goals
-- [ ] Add project goals
+- [ ] Implement the `atwork` protocol
+- [ ] Provide client/server implementations (Rust/JS)
 
 ## Progress
-- [ ] Initial setup
+- [ ] Protocol definition started
+- [ ] Workspace initialized
 
 ---
 *AI assisted*
